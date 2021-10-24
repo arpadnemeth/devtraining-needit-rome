@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table C" max_length="40" name="x_58872_needit_table_c" sizeclass="5" type="collection">
+        <element label="asd" max_length="40" name="asd" type="string"/>
+        <element label="jkl" max_length="44" name="jkl" type="string"/>
+        <element label="valami" max_length="40" name="valami" type="string"/>
+        <index name="index">
+            <element name="valami"/>
+        </index>
+        <index name="index2">
+            <element name="jkl"/>
+        </index>
+    </element>
+</database>

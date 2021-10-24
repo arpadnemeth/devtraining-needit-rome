@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>short_description</col_name_string>
+        <index_col_name element="short_description" name="task">136ae17a45113010c0a05206e0e0f8f4</index_col_name>
+        <logical_table_name>x_58872_needit_table_b_task</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-10-15 11:26:48</sys_created_on>
+        <sys_id>272574582f137010ae60a55df699b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_table_b_task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_index_x_58872_needit_table_b_task_short_description</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-15 11:26:48</sys_updated_on>
+        <table display_value="Table B task" name="x_58872_needit_table_b_task">17049cd02f9f3010ae60a55df699b642</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

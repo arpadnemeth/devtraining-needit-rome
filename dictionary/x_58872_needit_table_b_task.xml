@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Table B task" max_length="40" name="x_58872_needit_table_b_task" sizeclass="5" type="collection">
+        <element label="asd" max_length="40" name="asd" type="string"/>
+        <element label="fgh" max_length="44" name="fgh" type="string"/>
+        <element label="valami" max_length="40" name="valami" type="string"/>
+    </element>
+</database>
